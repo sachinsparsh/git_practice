@@ -7,4 +7,5 @@ void biggestOf3() {
     largest = (a > b) ? ((a > c) ? a : c) : ((b > c) ? b : c);
     printf("Largest number is: %d\n", largest);
     printf("\n");
+    printf("\n");
 }
